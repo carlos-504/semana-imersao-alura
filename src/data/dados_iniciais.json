@@ -1,183 +1,211 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "House",
       "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "cor": "#4169E1",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
+        "text": "",
         "url": "https://www.alura.com.br/cursos-online-front-end"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Vintage Culture x Beck’s - Unlock Your Soul @ São Paulo, Skyline",
+          "url": "https://www.youtube.com/watch?v=X3Q8_FBnzqY"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Pour Over - Vintage Culture",
+          "url": "https://www.youtube.com/watch?v=gprAWYQ47uY"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "H O W L I N G - Phases (Vintage Culture & JØRD Remix)",
+          "url": "https://www.youtube.com/watch?v=WQw0GNcZhUI"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "JØRD, BIAN - I Know U (Lyric Video)",
+          "url": "https://www.youtube.com/watch?v=0RU9M3QG4xk"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Chris Lake - Turn Off The Lights ft. Alexis Roberts (Official Video)",
+          "url": "https://www.youtube.com/watch?v=E_wxPpRSgho"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Bhaskar, Alternative Kasual, Lowderz feat. Enkode - Lovin' You (Clipe Oficial)",
+          "url": "https://www.youtube.com/watch?v=q2NY-Cx_QIs"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Liu - Step Ahead feat Vano (Lyric Video)",
+          "url": "https://www.youtube.com/watch?v=epa-FKmOJYs"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Dubdogz - Techno Prank (Pseudo Video)",
+          "url": "https://www.youtube.com/watch?v=yMsIwLlJf-c"
         }        
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
+      "titulo": "Deep",
+      "cor": "orange",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
+        "text": "",
         "url": "https://www.alura.com.br/cursos-online-programacao"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "CamelPhat, Cristoph - Breathe (Official Video) ft. Jem Cooke",
+          "url": "https://www.youtube.com/watch?v=DKRcqtNSP-4"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "CamelPhat, Jake Bugg - Be Someone (Official Video)",
+          "url": "https://www.youtube.com/watch?v=sSJ-jfKaE4g"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Until the Sun Needs to Rise",
+          "url": "https://www.youtube.com/watch?v=L2sIvVPCrv8"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "RÜFÜS DU SOL ●● No Place [Official Video]",
+          "url": "https://www.youtube.com/watch?v=-ge8lQfig9Y"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "RÜFÜS DU SOL ●● Innerbloom (Live at The Hordern Pavilion, Sydney)",
+          "url": "https://www.youtube.com/watch?v=us6HYdU1He4"
+        },
+        {
+          "titulo":"Guy Mantzur - Children With No Name (Vintage Culture, Bruno Be Remix)",
+          "url":"https://www.youtube.com/watch?v=ucHNtH4qUN0&list=PL_BV4ddNuHxcovcZXJf0HRsXUScM3bbpL&index=28"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Techno",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
+        "text": "",
         "url": "https://www.alura.com.br/formacao-data-science"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "FractaLL, Rocksted, Deeft - Face to Face",
+          "url": "https://www.youtube.com/watch?v=1SfuNCnaoWs"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Expressions (Original mix)",
+          "url": "https://www.youtube.com/watch?v=Y1KZ7oCdDec"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Shiba San & Tim Baresko 'All I Need' (Extended Mix)",
+          "url": "https://www.youtube.com/watch?v=8r1DZ8J0NXA"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Ur the Finest",
+          "url": "https://www.youtube.com/watch?v=VkYcVGc0-20"
+        },
+        {
+          "titulo": "Rocksted - Want You (Ft. Gabe)",
+          "url": "https://www.youtube.com/watch?v=hpGVMBWNlbI"
+        },
+        {
+          "titulo": "FractaLL, Gabe, Rocksted feat. Barja - Your Style",
+          "url": "https://www.youtube.com/watch?v=MdGe45JAXhk"
         }
       ]
     },
     {
-      "titulo": "Filmes",
-      "cor": "orange",
+      "titulo": "Tech-House",
+      "cor": "#00C86F",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Aura (Original Mix)",
+          "url": "https://www.youtube.com/watch?v=GrAVixr6GPY"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Victor Lou - Bad Dreams (Official Video)",
+          "url": "https://www.youtube.com/watch?v=LguE2Ly8k3A"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Sky (Original Mix)",
+          "url": "https://www.youtube.com/watch?v=H1SeMvTmffQ"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "On My Mind",
+          "url": "https://www.youtube.com/watch?v=_XKbf_-A998"
+        },
+        {
+          "titulo": "Almanac - Dark",
+          "url": "https://www.youtube.com/watch?v=_WUvL0iYDSA"
+        },
+        {
+          "titulo": "Victor Lou & Guzz - Lambada (Original Mix)",
+          "url": "https://www.youtube.com/watch?v=RvyWzvCWO9I"
         }
       ]
     },
     {
-      "titulo": "Games",
-      "cor": "red",
+      "titulo": "Deep-House",
+      "cor": "#6b5be2",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
+        "text": "",
         "url": "https://www.alura.com.br/formacao-jogos-unity"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Maverick Sabre - Slow Down Feat. Jorja Smith (Slow Motion & Vintage Culture Official Remix)",
+          "url": "https://www.youtube.com/watch?v=76mkEfxxIl0"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Sonny Fodera - The Moment (ft. Lilly Ahlberg)",
+          "url": "https://www.youtube.com/watch?v=ivtPDCCsjjk&list=PL_BV4ddNuHxcovcZXJf0HRsXUScM3bbpL&index=58&t=0s"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Vintage Culture & Zerky - Champagne n' Cocaine",
+          "url": "https://www.youtube.com/watch?v=ZaAd7uYQMkM&list=PL_BV4ddNuHxcovcZXJf0HRsXUScM3bbpL&index=54"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "ZHU - Faded (Vintage Culture & Zerb Remix)",
+          "url": "https://www.youtube.com/watch?v=GGar5N45NZE&list=PL_BV4ddNuHxcovcZXJf0HRsXUScM3bbpL&index=52"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Monolink - Return To Oz (ARTBAT Remix) (Edit)",
+          "url": "https://www.youtube.com/watch?v=Ec486jU2Jn0&list=PL_BV4ddNuHxcovcZXJf0HRsXUScM3bbpL&index=34"
+        },
+        {
+          "titulo": "Tube & Berger, Alegant - Cure",
+          "url": "https://www.youtube.com/watch?v=n_vayARK2no&list=PL_BV4ddNuHxcovcZXJf0HRsXUScM3bbpL&index=26"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
+      "titulo": "Trance",
+      "cor": "red",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
+        "text": "",
         "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Vegas-Elipsy",
+          "url": "https://www.youtube.com/watch?v=LwDOlOy7s8U"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Aura Vortex - Imaginarium (Original Mix)",
+          "url": "https://www.youtube.com/watch?v=8dRMoQJcniw"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Menumas - Inner Voice",
+          "url": "https://www.youtube.com/watch?v=ZGSP_5q38kk"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "Neelix - Makeup (feat Caroline Harrison) (Blazy Remix) [Official Audio]",
+          "url": "https://www.youtube.com/watch?v=hjchUfrnfTg"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Babalos - Snow Crystal [HQ]",
+          "url": "https://www.youtube.com/watch?v=9PNV6Lg_ajA"
+        },
+        {
+          "titulo": "Alpha Portal - Acid Rain",
+          "url": "https://www.youtube.com/watch?v=Zimt8PP2iNs"
         }
       ]
     }
