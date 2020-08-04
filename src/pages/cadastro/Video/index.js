@@ -25,8 +25,6 @@ function CadastroVideo() {
       });
   }, []);
 
-  console.log(categoryTitles);
-
   return (
     <PageDefault>
       <h1>Cadastro de Video</h1>

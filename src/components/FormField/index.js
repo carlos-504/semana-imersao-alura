@@ -79,6 +79,8 @@ function FormField({
   const hasValue = Boolean(value.length);
   const hasSuggestions = Boolean(suggestions.length);
 
+  console.log(`Tamanho do array ${suggestions.length}`)
+  
   return (
     <FormFieldWrapper>
       <Label
